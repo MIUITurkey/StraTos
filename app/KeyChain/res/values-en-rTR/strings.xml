@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Key Chain</string>
+    <string name="title_no_certs">Sertifika bulunamadı</string>
+    <string name="title_select_cert">Sertifika seçin</string>
+    <string name="requesting_application">%s uygulaması sertifika gerektiriyor. Sertifika seçmeniz gelecekte serverlar için kimlik sağlayacaktır.</string>
+    <string name="requesting_server">Uygulama server a %s olarak bağlanmak istiyor. Fakat uygulamaya güveniyorsanız sertifikaları erişim izni veriniz.</string>
+    <string name="install_new_cert_message">Sertifikaları PKCS#12 den %1$ veya %2$s uzantılı depolama alanından ki dosyalardan yükleyiniz.</string>
+    <string name="install_new_cert_button_label">Yükle</string>
+    <string name="allow_button">İzin ver</string>
+    <string name="deny_button">Reddet</string>
+</resources>

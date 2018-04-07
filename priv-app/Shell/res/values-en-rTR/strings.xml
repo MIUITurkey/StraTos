@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Fehlermeldung erstellt</string>
+    <string name="bugreport_finished_text">Berühren, um die Fehlermeldung zu teilen</string>
+    <string name="bugreport_confirm">Fehlermeldungen enthalten Daten aus den verschiedenen Logfiles des Systems. Diese beinhalten auch persönliche und private Informationen. Teile Fehlermeldungen nur mit Applikationen und Menschen, denen du traust.</string>
+    <string name="bugreport_confirm_repeat">Diese Nachricht das nächste Mal zeigen</string>
+</resources>

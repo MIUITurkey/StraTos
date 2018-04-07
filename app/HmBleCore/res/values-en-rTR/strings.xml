@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnlockMIUI</string>
+    <string name="unlock_tips">Permit this watch to unlock phone</string>
+    <string name="enter">Enter</string>
+    <string name="ble_lost_notification_very_far">手机距离过远</string>
+    <string name="ble_lost_notification_phone_is_not_near">手机已不在身边，请注意携带。</string>
+    <string name="ble_lost_notification_prevent_lost_remind">手机防丢提醒</string>
+    <string name="ble_lost_notification_disconnect">手表已与手机断开连接。</string>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirm</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
+    <string name="no_altitude_hint">Altitude data not detected</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Settings</string>
+    <string name="sport_music_settings">Sports music</string>
+    <string name="widget_currentstep_title">数据中心</string>
+    <string name="widget_currentstep_activities">今日运动</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
+    <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
+    <string name="widget_currentstep_activity_no">今日不运动吗?</string>
+</resources>

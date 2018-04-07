@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
+    </string-array>
+    <string-array name="quick_settings_status_week">
+        <item>Paz</item>
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çar</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+        <item>Bugün</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>Hava Mükemmel</item>
+        <item>Hava iyi</item>
+        <item>Hafif Kirlilik</item>
+        <item>Orta Kirlilik</item>
+        <item>Ağır Kirlilik</item>
+        <item>Ciddi Kirlilik</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>Spor için uygun</item>
+        <item>Spor için uygun değil</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>Güneşli</item>
+        <item>Bulutlu</item>
+        <item>Bulutlu</item>
+        <item>Sisli</item>
+        <item>Dumanlı</item>
+        <item>Sağnak</item>
+        <item>Sağnak fırtına</item>
+        <item>Hafif yağmur</item>
+        <item>Orta yağmur</item>
+        <item>Şiddetli yağmur</item>
+        <item>Yağmur fırtınası</item>
+        <item>Sicim yağmur</item>
+        <item>Sulu kar</item>
+        <item>Donmuş kar</item>
+        <item>Dolu</item>
+        <item>Hafif kar</item>
+        <item>Orta kar</item>
+        <item>Şiddetli kar</item>
+        <item>Kar fırtınası</item>
+        <item>Sağnak kar</item>
+        <item>Toz</item>
+        <item>Kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Kuvvetli kum fırtınası</item>
+        <item>Bilgi yok</item>
+    </string-array>
+</resources>
