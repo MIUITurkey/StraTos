@@ -18,7 +18,7 @@
     <string name="air_quality">Air quality </string>
     <string name="weather_title">Today Weather</string>
     <string name="dot"> </string>
-    <string name="weather_warning">Alert</string>
+    <string name="weather_warning">Uyar</string>
     <string name="weather_warning_level_blue">Blue</string>
     <string name="weather_warning_level_orange">Orange</string>
     <string name="weather_warning_level_red">Red</string>
