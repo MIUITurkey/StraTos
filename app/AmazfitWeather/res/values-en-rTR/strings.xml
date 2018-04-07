@@ -6,7 +6,7 @@
     <string name="fahrenheit">℉</string>
     <string name="forecast_today">Bugün</string>
     <string name="forecast_tomorrow">Yarın</string>
-    <string name="widget_title">Weather</string>
+    <string name="widget_title">Hava</string>
     <string name="temp_unit_centigrade">℃</string>
     <string name="temp_unit_fahrenheit">°F</string>
     <string name="temp_unit_degree">°</string>
