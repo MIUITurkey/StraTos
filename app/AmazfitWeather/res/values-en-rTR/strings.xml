@@ -13,12 +13,12 @@
     <string name="temp_to">~</string>
     <string name="temp_to_card">/</string>
     <string name="type_to"> to </string>
-    <string name="not_avalible_type">No Data</string>
+    <string name="not_avalible_type">Veri yok</string>
     <string name="not_avalible_temp">--</string>
-    <string name="air_quality">Air quality </string>
-    <string name="weather_title">Today Weather</string>
+    <string name="air_quality">Hava Kalitesi </string>
+    <string name="weather_title">Bugün</string>
     <string name="dot"> </string>
-    <string name="weather_warning">Uyar</string>
+    <string name="weather_warning">Uyarı</string>
     <string name="weather_warning_level_blue">Blue</string>
     <string name="weather_warning_level_orange">Orange</string>
     <string name="weather_warning_level_red">Red</string>
